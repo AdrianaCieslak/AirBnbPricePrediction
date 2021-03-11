@@ -6,7 +6,8 @@ Using machine learning models (linear regression, random forest, xgboost) to pre
 ### Hosting Application
 Out team will be utilizing flask app and html to host data and deploy to Heroku.
 
-Link: https://air-bnb-nyc.herokuapp.com/predict
+### Link to the application
+* https://air-bnb-nyc.herokuapp.com/predict
 
 ### Preprocessing/Data Cleaning
 Our group will work in Jupyter Notebook to complete any preprocessing and data cleaning that is needed before training and testing each model.
