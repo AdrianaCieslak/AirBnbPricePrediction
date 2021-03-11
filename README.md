@@ -1,5 +1,5 @@
 # Airbnb Price Prediction Application
-
+![](images/airBnb.png)
 ### The Problem
 Using machine learning models (linear regression, random forest, xgboost) to predict NYC Airbnb price and understand some of the key driving factors behind the pricing of any given listing.
 
